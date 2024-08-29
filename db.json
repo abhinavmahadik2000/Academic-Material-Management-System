@@ -1,0 +1,71 @@
+{
+  "users": [],
+  "students": [
+    {
+      "id": "1",
+      "name": "Joseph",
+      "email": "p.maruthi@gmail.comm",
+      "phoneNumber": "214-226-3786",
+      "role": "Students 12"
+    }
+  ],
+  "instructor": [
+    {
+      "id": "4",
+      "name": "John",
+      "email": "p.maruthi@gmail.com",
+      "phoneNumber": "214-226-37864",
+      "role": "Instructor"
+    }
+  ],
+  "qao": [
+    {
+      "id": "2",
+      "name": "Henny",
+      "email": "p.maruthi@gmail.com",
+      "phoneNumber": "214-226-3786",
+      "role": "QAOo"
+    }
+  ],
+  "programcoordinator": [
+    {
+      "id": "23",
+      "name": "Madhav",
+      "email": "p.maruthi@gmail.com",
+      "phoneNumber": "214-226-3786",
+      "role": "Program Coordinator"
+    },
+    {
+      "id": 2,
+      "name": "Maruthi",
+      "email": "PONUGUPATI",
+      "phoneNumber": "2142263786",
+      "role": "Program Coordinator"
+    }
+  ],
+  "issueResolution": [
+    {
+      "id": "5",
+      "name": "mm",
+      "email": "ponugupatimaruthi@gmail.com",
+      "subject": "hugj",
+      "message": "uigiugu",
+      "status": "Resolved"
+    },
+    {
+      "id": 4,
+      "name": "mm",
+      "email": "ponugupatimaruthi@gmail.com",
+      "subject": "num",
+      "message": "87897987",
+      "status": "Resolved"
+    },
+    {
+      "id": 3,
+      "name": "test123445",
+      "email": "ponugupatimaruthi@gmail.com",
+      "subject": "hugj",
+      "message": "87897987"
+    }
+  ]
+}
